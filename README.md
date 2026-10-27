@@ -125,7 +125,7 @@ See a device marked Experimental you have? We could use real world testing feedb
     </tr>
     <tr>
       <td>TH05 Temperature Sensor</td>
-      <td><code>vyfoip9h</code>, <code>1jvidcsf</code></td>
+      <td><code>vyfoip9h</code>, <code>1jvidcsf</code>, <code>ccqhvfjx</code></td>
       <td>Experimental</td>
     </tr>
     <tr>
