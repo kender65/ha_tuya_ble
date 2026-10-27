@@ -687,7 +687,7 @@ mapping: dict[str, TuyaBLECategoryNumberMapping] = {
                 ],
             ),
             **dict.fromkeys(
-                ["vyfoip9h", "1jvidcsf"],
+                ["vyfoip9h", "1jvidcsf", "ccqhvfjx"],
                 [
                     TuyaBLENumberMapping(
                         dp_id=23,
