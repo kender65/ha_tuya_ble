@@ -1137,7 +1137,7 @@ mapping: dict[str, TuyaBLECategorySensorMapping] = {
                 ),
             ],
             **dict.fromkeys(
-                ["6lbesej0", "vyfoip9h", "1jvidcsf"],
+                ["6lbesej0", "vyfoip9h", "1jvidcsf", "ccqhvfjx"],
                 [
                     TuyaBLETemperatureMapping(
                         dp_id=1,
