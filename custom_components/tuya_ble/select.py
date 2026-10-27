@@ -752,6 +752,7 @@ mapping: dict[str, TuyaBLECategorySelectMapping] = {
                     "tr0kabuq",
                     "vyfoip9h",
                     "1jvidcsf",
+                    "ccqhvfjx",
                 ],
                 [TuyaBLETemperatureUnitMapping(dp_id=9)],
             )
